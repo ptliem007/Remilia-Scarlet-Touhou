@@ -1,0 +1,34 @@
+
+game.png
+size: 332,100
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/The Scarlet Estate
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Magic Library
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 100, 100
+  index: -1
+UnitIcons/Fairy Maid
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 100, 100
+  index: -1
+TileSets/FantasyHex/Units/Fairy Maid
+rotate: false
+  xy: 300, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1

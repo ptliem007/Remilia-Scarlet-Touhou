@@ -1,0 +1,27 @@
+[
+	{
+		"name": "The Scarlet Estate",
+		"leaderName": "Remilia Scarlet",
+		"adjective": ["The Scarlet Estate"],
+		"startBias": ["Grassland", "Lakes"],
+		"startIntroPart1": "Greetings, lady Remilia Scarlet, the Eternally Young Scarlet Moon, the mistress of the Scarlet Devil Mansion. Your subordinates bow to your immortal rule, and no visitor is left unswayed by your undying charisma. 
+							Located at the edge of Misty Lake, it stands as a monument to Gensokyo's many mysteries. From the clock tower to the magical library, every visitor has been awestruck by its magnificent - and should I add, well maintained - splendor. Its many powerful and loyal inhabitants have always ensured the mansion's success, and under the rule of the Lady herself, will never fail in doing so.
+							Oh Scarlet Moon, will you continue the prosperous grandeur of your estate? Or will you spread the mists to the world's furthest reaches, and unite all beings under the scarlet banner? Can you build a civilization that will stand the test of time?",
+		"startIntroPart2": "The Scarlet Estate, located at the edge of Misty Lake, has been around for an unknown amount of time. Its eye-catching feature is the clock tower rising up from the red rooftops. 
+							Surrounding the mansion stands a brick wall, its gate being protected by the somewhat lazy yet loyal Hong Meiling. Inside the mansion you'll find the magic Library and its librarian Patchouli Knowledge, and the many corridors whose cleanliness is under the constant supervision of the Chief Maid Sakuya Izayoi. Underneath it all you'll find the mansion's little secret, Remilia's sister Flandre. You don't want to meet Flandre.",
+		"declaringWar": "My staff will be there in a moment to claim what's mine. Any resistance will be dealt with.",
+		"attacked": "Looks like it's going to be a fun night.",
+		"defeated": "Just go away already.",
+		"introduction": "Welcome to the mansion, stranger, my name is Remilia Scarlet. Cup of tea?",
+		"neutralHello": "Hello there. Make yourself at home. Ask the maid if you need anything.",
+		"hateHello": "So, what are you here for?",
+		"tradeRequest": "Say, what do you think of this?",
+		"outerColor": [145, 40,  0],
+		"innerColor": [ 10, 10, 10],
+		"uniqueName": "Scarlet Mist",
+		"uniques" : ["-[25]% Culture cost of acquiring tiles [in all cities]", "New [Military] units start with [15] Experience", "-[25]% tile improvement construction time"],
+		"cities": ["Scarlet Mansion", "Amaranth", "Gungnir", "Carnelian", "Voile", "Misty Lake", "Piros", "Sarkans", "Lavatein", "Antares",
+					"Cranberry Acres", "Alizarin", "Cardinal", "New Bucharest", "Crimson", "Sanguine", "Betelgeuze", "Maroon", "Vörös", "Arcturus",
+					"Kermes", "Carmine", "Cerise", "Aldebaran", "Scharlaken"]
+	},
+]

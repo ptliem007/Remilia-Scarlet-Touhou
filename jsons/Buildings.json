@@ -1,0 +1,12 @@
+[	
+	{
+		"name": "Magic Library",
+		"replaces": "Library",
+		"uniqueTo": "The Scarlet Estate",
+		"culture": 1,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Science] Per [2] Population in this city", "[+1 Food, +1 Happiness, +2 Culture] from [Lakes] tiles in this city"],
+		"requiredTech": "Writing"
+	},
+]

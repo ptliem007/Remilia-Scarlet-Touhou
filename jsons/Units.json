@@ -1,0 +1,11 @@
+[	
+	{
+		"name": "Fairy Maid",
+		"unitType": "Civilian",
+		"uniqueTo": "The Scarlet Estate",
+		"replaces": "Worker",
+		"movement": 2,
+		"cost": 60,
+		"uniques": ["Can build improvements on tiles", "Ignores terrain cost", "May withdraw before melee ([50]%)"],
+	},
+]
